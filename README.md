@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Moonlight1050
+- 👋 Hi, I’m @Moonlight
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning le Python
 - 📫 How to reach me Moonlight'$#1111
 
 <!---
